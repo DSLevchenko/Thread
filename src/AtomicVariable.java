@@ -18,5 +18,6 @@ public class AtomicVariable {
                 }
             }).start();
         }
+        System.out.println("my correct")
             }
 }
