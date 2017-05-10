@@ -18,5 +18,7 @@ public class AtomicVariable {
                 }
             }).start();
         }
+
+        System.out.println("Print Git");
             }
 }
